@@ -62,7 +62,7 @@ In order to keep Alamofire focused specifically on core networking implementatio
 - Xcode 11+
 - Swift 5.1+
 
-## Migration Guides
+## Migration Guide
 
 - [Alamofire 5.0 Migration Guide](https://github.com/Alamofire/Alamofire/blob/master/Documentation/Alamofire%205.0%20Migration%20Guide.md)
 - [Alamofire 4.0 Migration Guide](https://github.com/Alamofire/Alamofire/blob/master/Documentation/Alamofire%204.0%20Migration%20Guide.md)
